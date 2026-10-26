@@ -1,0 +1,6 @@
+{
+  "name": "AR Supermarket Billing System",
+  "description": "Full-stack supermarket billing management system with MongoDB, POS invoicing, inventory catalog, customer portal, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
